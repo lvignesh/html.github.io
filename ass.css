@@ -1,0 +1,22 @@
+.font
+{
+font-family: "serif";
+}
+.email{
+	color: white;
+	font-size: 30px;
+}
+.box{
+	color: grey;
+	box-shadow: 1px 1px 1px 1px #808080;
+}
+.email:hover{
+	color: blue;
+}
+.box:hover{
+	box-shadow: 1px 1px 1px 1px #000000
+}
+.re{
+	font-size: 20px;
+	font-style: solid;
+}
